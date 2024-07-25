@@ -6,8 +6,8 @@
 
 ### 👋 About Me
 
-Hello! I'm Dani, a passionate frontend developer with a keen interest in modern web technologies. 
-I specialize in building responsive and user-friendly web applications using Next.js and React. 
+Hello! I'm Dani, a passionate frontend developer with a keen interest in modern web technologies. <br /> 
+I specialize in building responsive and user-friendly web applications using Next.js and React. <br />
 Always eager to learn and adapt to new technologies, I strive to write clean, efficient code that solves real-world problems.
 
 ---
