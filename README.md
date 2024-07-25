@@ -1,16 +1,34 @@
-## Hi there 👋
+# John Doe
 
-<!--
-**dani784601/dani784601** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 Frontend Developer | Next.js Enthusiast | Lifelong Learner
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👋 About Me
+
+Hello! I'm Dani, a passionate frontend developer with a keen interest in modern web technologies. 
+I specialize in building responsive and user-friendly web applications using Next.js and React. 
+Always eager to learn and adapt to new technologies, I strive to write clean, efficient code that solves real-world problems.
+
+---
+
+### 🛠 Tech Stack
+
+- **Frontend**: Next.js, React, HTML5, CSS3, JavaScript (ES6+)
+- **Styling**: Tailwind CSS, CSS-in-JS
+- **Version Control**: Git, GitHub
+- **Tools**: VS Code, Webpack, Babel
+
+---
+
+### 🌱 Currently Learning
+
+- Advanced TypeScript features
+- Test-Driven Development (TDD) with Jest and React Testing Library
+- Web Accessibility (WCAG guidelines)
+- Advanced component design patterns in React
+
+---
+
+💬 Feel free to reach out if you want to discuss web development, collaborate on a project, or just chat about the latest tech trends!
+
