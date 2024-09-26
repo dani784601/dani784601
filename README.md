@@ -24,8 +24,6 @@ Always eager to learn and adapt to new technologies, I strive to write clean, ef
 ### 🌱 Currently Learning
 
 - Advanced TypeScript features
-- Test-Driven Development (TDD) with Jest and React Testing Library
-- Web Accessibility (WCAG guidelines)
 - Advanced component design patterns in React
 
 ---
