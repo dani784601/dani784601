@@ -23,7 +23,7 @@ ORM을 활용한 데이터 모델링, RESTful API 설계 및 연동, JWT 기반 
 - **Frontend**: React, Next.js, TypeScript, JavaScript
 - **Database**: PrismaORM, PostgreSQL
 - **DevOps**: Docker, AWS
-- **Styling**: TailwindCSS, Bootstrap, Sass
+- **Styling**: TailwindCSS, styled-components, Bootstrap, Sass
 
 ---
 
